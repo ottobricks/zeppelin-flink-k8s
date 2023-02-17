@@ -1,0 +1,3 @@
+[submodule "zeppelin"]
+	path = zeppelin
+	url = github:apache/zeppelin.git
